@@ -24,7 +24,7 @@ pipeline {
                     input message: 'Approve PRODUCTION Deployment?'
                 }
                 
-                build job : 'Prod-Pipeline'
+                build job : 'Declarative-jenkinsfile'
             }
 
             post{
