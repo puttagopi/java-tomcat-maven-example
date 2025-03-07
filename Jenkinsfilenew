@@ -2,12 +2,7 @@ pipeline {
     agent any
     
     stages {
-        stage('clone') {
-            steps {
-              git credentialsId: 'gitlogin', url: 'https://github.com/puttagopi/java-tomcat-maven-example.git'
-            }
-            
-        }
+        
         stage('build') {
             steps {
                 bat 'mvn clean install'
