@@ -6,9 +6,8 @@
 	<h3>WelCome to Jenkins! We are working on Code Pipeline version 2</h3>
 	<h3>WelCome to Jenkins! We are working on Code Pipeline version 3</h3>
 	<h3>WelCome to Jenkins! We are working on Code Pipeline version 4</h3>
-<h1>Tomcat dev testing</h1>
-<h1>Tomcat QA testing</h1>
-<h1>Tomcat UAT testing</h1>	
+<h1>Tomcat DEV testing</h1>
+
 	
 	
 	
